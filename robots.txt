@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oulwarth.github.io/sitemap
+Sitemap: https://oulwarth.github.io/app/sitemap
+Sitemap: https://oulwarth.github.io/assets/sitemap
+Sitemap: https://oulwarth.github.io/css/sitemap
+Sitemap: https://oulwarth.github.io/includes/sitemap
+Sitemap: https://oulwarth.github.io/item/sitemap
+Sitemap: https://oulwarth.github.io/src/sitemap
